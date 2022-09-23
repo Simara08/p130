@@ -1,0 +1,22 @@
+Universitet database qurulur(sade shekilde)
+Table:Telebe,muellim,qrup,Kafedra,dekanliq, dersler arasinda migration
+ DB designer qurulur(migrationlar)
+
+--İd 4 olan telebeni Sil
+--Id esasen telebenin adini update et
+--İlk 2 telebeni goster
+--En boyuk yash
+--Adinda [E ve g ] herfleri arasindaki herfler  istifade olunmayan telebeler
+--Butun telebelerin yashlarinin cemi
+--telebeleri yashlarina gore sirala (artan sira ile azalan)
+--sistemin anliq saati ve tarixi gosteren query
+-toplam telebe sayini
+
+
+Hotel database db designer(migrationlar)
+Table:
+Hotel,room,roomtype,boocking,employee,bill,guest
+
+instagram database db designer (migrationlar)
+table :
+user,comment,post,kategori tags,likes,follower-maps
